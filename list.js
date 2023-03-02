@@ -21,6 +21,8 @@ function init() {
     console.log(articleListak2);
     const articleListak3 = document.querySelector("classNev");
     console.log(articleListak3);
+    const articleListak4 = document.querySelectorAll("article");
+    console.log(articleListak4);
     
 
 
